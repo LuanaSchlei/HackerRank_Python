@@ -13,3 +13,9 @@
 [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
 
 [Resolution](defaultdict-tutorial/defaultdict-tutorial.py)
+
+## Python If-Else
+
+[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
+
+[Resolution](py-if-else/py-if-else.py)
