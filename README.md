@@ -79,3 +79,9 @@
 [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)
 
 [Resolution](python-tuples/python-tuples.py)
+
+## sWAP cASE
+
+[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)
+
+[Resolution](swap-case/swap-case.py)
