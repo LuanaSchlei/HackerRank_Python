@@ -31,3 +31,9 @@
 [Division](https://www.hackerrank.com/challenges/python-division/problem)
 
 [Resolution](python-division/python-division.py)
+
+## Loops
+
+[Loops](https://www.hackerrank.com/challenges/python-loops/problem)
+
+[Resolution](python-loops/python-loops.py)
