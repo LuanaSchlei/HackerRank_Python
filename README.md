@@ -163,3 +163,9 @@
 [collections-counter](https://www.hackerrank.com/challenges/collections-counter/problem)
 
 [Resolution](collections-counter/collections-counter.py)
+
+## itertools.permutations
+
+[itertools.permutations](https://www.hackerrank.com/challenges/itertools-permutations/problem)
+
+[Resolution](itertools-permutations/itertools-permutations.py)
