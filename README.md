@@ -133,3 +133,9 @@
 [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)
 
 [Resolution](designer-door-mat/designer-door-mat.py)
+
+## String Formatting
+
+[String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)
+
+[Resolution](python-string-formatting/python-string-formatting.py)
