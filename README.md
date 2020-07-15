@@ -145,3 +145,9 @@
 [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)
 
 [Resolution](alphabet-rangoli/alphabet-rangoli.py)
+
+## Capitalize
+
+[Capitalize](https://www.hackerrank.com/challenges/capitalize/problem)
+
+[Resolution](capitalize/capitalize.py)
