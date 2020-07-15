@@ -37,3 +37,9 @@
 [Loops](https://www.hackerrank.com/challenges/python-loops/problem)
 
 [Resolution](python-loops/python-loops.py)
+
+## Print Function
+
+[Print Function](https://www.hackerrank.com/challenges/python-print/problem)
+
+[Resolution](python-print/python-print.py)
