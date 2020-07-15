@@ -85,3 +85,9 @@
 [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)
 
 [Resolution](swap-case/swap-case.py)
+
+## String Split and Join
+
+[String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
+
+[Resolution](python-string-split-and-join/python-string-split-and-join.py)
