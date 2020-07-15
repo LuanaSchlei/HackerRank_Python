@@ -139,3 +139,9 @@
 [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)
 
 [Resolution](python-string-formatting/python-string-formatting.py)
+
+## Alphabet Rangoli
+
+[Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)
+
+[Resolution](alphabet-rangoli/alphabet-rangoli.py)
