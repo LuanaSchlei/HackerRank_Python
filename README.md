@@ -49,3 +49,9 @@
 [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
 
 [Resolution](list-comprehensions/list-comprehensions.py)
+
+## Find-second-maximum-number-in-a-list (Find the Runner-Up Score!)
+
+[Find-second-maximum-number-in-a-list](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
+
+[Resolution](find-second-maximum-number-in-a-list/find-second-maximum-number-in-a-list.py)
