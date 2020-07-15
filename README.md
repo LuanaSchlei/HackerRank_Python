@@ -25,3 +25,9 @@
 [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
 
 [Resolution](python-arithmetic-operators/python-arithmetic-operators.py)
+
+## Division
+
+[Division](https://www.hackerrank.com/challenges/python-division/problem)
+
+[Resolution](python-division/python-division.py)
