@@ -91,3 +91,9 @@
 [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
 
 [Resolution](python-string-split-and-join/python-string-split-and-join.py)
+
+## whats-your-name
+
+[whats-your-name](https://www.hackerrank.com/challenges/whats-your-name/problem)
+
+[Resolution](whats-your-name/whats-your-name.py)
