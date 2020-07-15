@@ -97,3 +97,9 @@
 [whats-your-name](https://www.hackerrank.com/challenges/whats-your-name/problem)
 
 [Resolution](whats-your-name/whats-your-name.py)
+
+## Find a string
+
+[Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)
+
+[Resolution](find-a-string/find-a-string.py)
