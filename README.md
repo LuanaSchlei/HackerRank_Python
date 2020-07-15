@@ -43,3 +43,9 @@
 [Print Function](https://www.hackerrank.com/challenges/python-print/problem)
 
 [Resolution](python-print/python-print.py)
+
+## List Comprehensions
+
+[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
+
+[Resolution](list-comprehensions/list-comprehensions.py)
