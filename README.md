@@ -115,3 +115,9 @@
 [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)
 
 [Resolution](python-mutations/python-mutations.py)
+
+## Text Alignment
+
+[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)
+
+[Resolution](text-alignment/text-alignment.py)
