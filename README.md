@@ -55,3 +55,9 @@
 [Find-second-maximum-number-in-a-list](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
 
 [Resolution](find-second-maximum-number-in-a-list/find-second-maximum-number-in-a-list.py)
+
+## Nested Lists
+
+[Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)
+
+[Resolution](nested-list/nested-list.py)
