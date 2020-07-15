@@ -109,3 +109,9 @@
 [String Validators](https://www.hackerrank.com/challenges/string-validators/problem)
 
 [Resolution](string-validators/string-validators.py)
+
+## Mutations
+
+[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)
+
+[Resolution](python-mutations/python-mutations.py)
