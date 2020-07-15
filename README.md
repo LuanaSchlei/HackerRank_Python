@@ -61,3 +61,9 @@
 [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)
 
 [Resolution](nested-list/nested-list.py)
+
+## Finding the percentage
+
+[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
+
+[Resolution](finding-the-percentage/finding-the-percentage.py)
