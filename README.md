@@ -151,3 +151,9 @@
 [Capitalize](https://www.hackerrank.com/challenges/capitalize/problem)
 
 [Resolution](capitalize/capitalize.py)
+
+## itertools.product
+
+[itertools.product](https://www.hackerrank.com/challenges/itertools-product/problem)
+
+[Resolution](itertools-product/itertools-product.py)
