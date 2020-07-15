@@ -67,3 +67,9 @@
 [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
 
 [Resolution](finding-the-percentage/finding-the-percentage.py)
+
+## Lists
+
+[Lists](https://www.hackerrank.com/challenges/python-lists/problem)
+
+[Resolution](python-lists/python-lists.py)
