@@ -157,3 +157,9 @@
 [itertools.product](https://www.hackerrank.com/challenges/itertools-product/problem)
 
 [Resolution](itertools-product/itertools-product.py)
+
+## collections-counter
+
+[collections-counter](https://www.hackerrank.com/challenges/collections-counter/problem)
+
+[Resolution](collections-counter/collections-counter.py)
