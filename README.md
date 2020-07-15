@@ -127,3 +127,9 @@
 [Text wrap](https://www.hackerrank.com/challenges/text-wrap/problem)
 
 [Resolution](text-wrap/text-wrap.py)
+
+## Designer Door Mat
+
+[Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)
+
+[Resolution](designer-door-mat/designer-door-mat.py)
