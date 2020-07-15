@@ -73,3 +73,9 @@
 [Lists](https://www.hackerrank.com/challenges/python-lists/problem)
 
 [Resolution](python-lists/python-lists.py)
+
+## Tuples
+
+[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)
+
+[Resolution](python-tuples/python-tuples.py)
