@@ -121,3 +121,9 @@
 [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)
 
 [Resolution](text-alignment/text-alignment.py)
+
+## Text wrap
+
+[Text wrap](https://www.hackerrank.com/challenges/text-wrap/problem)
+
+[Resolution](text-wrap/text-wrap.py)
