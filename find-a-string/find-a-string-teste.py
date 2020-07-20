@@ -1,5 +1,12 @@
+#!/bin/python3
 
-
+#
+# Url: https://www.hackerrank.com/challenges/find-a-string/problem
+#
+# Title: Find a string
+#
+# Arquivo de Teste
+#
 
 def count_substring(texto, sub_texto):
     contador = 0

@@ -1,7 +1,10 @@
+#!/bin/python3
 
-
-
-
+#
+# Url: https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
+#
+# Title: Find-second-maximum-number-in-a-list (Find the Runner-Up Score!)
+#
 
 if __name__ == '__main__':
     n = int(input())

@@ -1,4 +1,12 @@
+#!/bin/python3
 
+#
+# Url: https://www.hackerrank.com/challenges/python-lists/problem
+#
+# Title: Lists
+#
+# Arquivo de Teste
+#
 
 if __name__ == '__main__':
 #    n = int(input())

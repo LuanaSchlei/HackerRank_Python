@@ -1,3 +1,12 @@
+#!/bin/python3
+
+#
+# Url: https://www.hackerrank.com/challenges/string-validators/problem
+#
+# Title: String Validators
+#
+# Arquivo de Teste
+#
 
 import curses.ascii
 

@@ -1,4 +1,12 @@
+#!/bin/python3
 
+#
+# Url: https://www.hackerrank.com/challenges/python-tuples/problem
+#
+# Title: Tuples
+#
+# Arquivo de Teste
+#
 
 
 if __name__ == '__main__':

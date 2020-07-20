@@ -1,4 +1,10 @@
+#!/bin/python3
 
+#
+# Url: https://www.hackerrank.com/challenges/designer-door-mat/problem
+#
+# Title: Designer Door Mat
+#
 
 traco = '-'
 meio = '.|.'

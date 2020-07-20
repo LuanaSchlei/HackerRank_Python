@@ -1,9 +1,12 @@
+#!/bin/python3
+
 #
 # Url: https://www.hackerrank.com/challenges/defaultdict-tutorial/problem
 #
 # Title: DefaultDict Tutorial
 #
 # Arquivo de Teste
+#
 
 from collections import defaultdict
 

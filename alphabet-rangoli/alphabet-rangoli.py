@@ -1,4 +1,10 @@
+#!/bin/python3
 
+#
+# Url: https://www.hackerrank.com/challenges/alphabet-rangoli/problem
+#
+# Title: Alphabet Rangoli
+#
 
 import string
 

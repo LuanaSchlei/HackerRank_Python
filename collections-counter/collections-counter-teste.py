@@ -1,3 +1,12 @@
+#!/bin/python3
+
+#
+# Url: https://www.hackerrank.com/challenges/collections-counter/problem
+#
+# Title: Collections Counter
+#
+# Arquivo de Teste
+#
 
 from collections import Counter
 

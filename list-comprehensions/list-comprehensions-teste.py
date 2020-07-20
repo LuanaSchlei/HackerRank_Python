@@ -1,6 +1,12 @@
+#!/bin/python3
 
-
-
+#
+# Url: https://www.hackerrank.com/challenges/list-comprehensions/problem
+#
+# Title: List Comprehensions
+#
+# Arquivo de Teste
+#
 
 
 if __name__ == '__main__':

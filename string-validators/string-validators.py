@@ -1,4 +1,10 @@
+#!/bin/python3
 
+#
+# Url: https://www.hackerrank.com/challenges/string-validators/problem
+#
+# Title: String Validators
+#
 
 
 if __name__ == '__main__':
