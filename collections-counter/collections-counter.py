@@ -1,3 +1,11 @@
+#!/bin/python3
+
+#
+# Url: https://www.hackerrank.com/challenges/collections-counter/problem
+#
+# Title: Collections Counter
+#
+
 from collections import Counter
 
 quantidade_de_sapatos = int(input())

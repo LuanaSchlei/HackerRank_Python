@@ -1,3 +1,10 @@
+#!/bin/python3
+
+#
+# Url: https://www.hackerrank.com/challenges/python-mutations/problem
+#
+# Title: Mutations
+#
 
 def mutate_string(string, position, character):
     return

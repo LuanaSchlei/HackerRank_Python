@@ -1,3 +1,12 @@
+#!/bin/python3
+
+#
+# Url: https://www.hackerrank.com/challenges/itertools-product/problem
+#
+# Title: itertools.product
+#
+# Arquivo de Teste
+#
 
 from itertools import product
 

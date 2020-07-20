@@ -1,4 +1,10 @@
+#!/bin/python3
 
+#
+# Url: https://www.hackerrank.com/challenges/text-alignment/problem
+#
+# Title: Text Alignment
+#
 
 #Replace all ______ with rjust, ljust or center. 
 

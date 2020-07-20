@@ -1,4 +1,10 @@
+#!/bin/python3
 
+#
+# Url: https://www.hackerrank.com/challenges/find-a-string/problem
+#
+# Title: Find a string
+#
 
 
 def count_substring(string, sub_string):

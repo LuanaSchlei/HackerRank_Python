@@ -174,4 +174,5 @@
 
 [Polar coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem)
 
-[Resolution](polar-coordinates/polar-coordinates.py
+[Resolution](polar-coordinates/polar-coordinates.py)
+

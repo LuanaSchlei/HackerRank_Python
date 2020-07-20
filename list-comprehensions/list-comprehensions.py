@@ -1,6 +1,10 @@
+#!/bin/python3
 
-
-
+#
+# Url: https://www.hackerrank.com/challenges/list-comprehensions/problem
+#
+# Title: List Comprehensions
+#
 
 if __name__ == '__main__':
     x = int(input())

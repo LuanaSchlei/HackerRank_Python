@@ -1,4 +1,12 @@
+#!/bin/python3
 
+#
+# Url: https://www.hackerrank.com/challenges/python-string-split-and-join/problem
+#
+# Title: String Split and Join
+#
+# Arquivo de Teste
+#
 
 
 def split_and_join(line):

@@ -1,4 +1,10 @@
+#!/bin/python3
 
+#
+# Url: https://www.hackerrank.com/challenges/python-string-formatting/problem
+#
+# Title: String Formatting
+#
 
 def print_formatted(number):
     tamanho_n_bin = len(bin(number)) - 2

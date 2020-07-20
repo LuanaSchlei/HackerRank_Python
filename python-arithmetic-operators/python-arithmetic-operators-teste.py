@@ -1,4 +1,12 @@
+#!/bin/python3
 
+#
+# Url: https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
+#
+# Title: Arithmetic Operators
+#
+# Arquivo de Teste
+#
 
 if __name__ == '__main__':
 #    a = int(input())

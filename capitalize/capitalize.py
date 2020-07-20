@@ -1,5 +1,10 @@
 #!/bin/python3
 
+#
+# Url: https://www.hackerrank.com/challenges/capitalize/problem
+#
+# Title: Capitalize
+#
 
 import math
 import os

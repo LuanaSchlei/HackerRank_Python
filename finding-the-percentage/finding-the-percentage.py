@@ -1,4 +1,10 @@
+#!/bin/python3
 
+#
+# Url: https://www.hackerrank.com/challenges/finding-the-percentage/problem
+#
+# Title: Finding the percentage
+#
 
 
 

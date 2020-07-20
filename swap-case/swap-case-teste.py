@@ -1,3 +1,12 @@
+#!/bin/python3
+
+#
+# Url: https://www.hackerrank.com/challenges/swap-case/problem
+#
+# Title: sWAP cASE
+#
+# Arquivo de Teste
+#
 
 def swap_case(texto):
     saida = ''

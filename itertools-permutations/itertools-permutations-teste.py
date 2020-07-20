@@ -1,3 +1,12 @@
+#!/bin/python3
+
+#
+# Url: https://www.hackerrank.com/challenges/itertools-permutations/problem
+#
+# Title: itertools.permutations
+# 
+# Arquivo de Teste
+#
 
 from itertools import permutations
 
