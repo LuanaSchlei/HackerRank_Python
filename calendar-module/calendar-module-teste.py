@@ -1,4 +1,3 @@
-
 #!/bin/python3
 
 #
@@ -12,11 +11,15 @@
 import calendar
 
 # mes_dia_ano = map(int, input().split(' '))
-month, day, year = '8', '5', '2015'
-mes_dia_ano_split = month, day, year.split(',')
+inputValue = '12 25 2059'
+mes_dia_ano = list(map(int, inputValue.split(' ')))
+month, day, year = mes_dia_ano[0], mes_dia_ano[1], mes_dia_ano[2]
+
 num_dia_da_semana = calendar.weekday(year, month, day)
-dias_da_semana = ['Monday', 'Tuesday', 'Wednesday', 'Thirsday', 'Friday', 'Saturday', 'Sunday']
-weekday_result = dias_da_semana[num_dia_da_semana]
+#dias_da_semana = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+weekday_result = calendar.day_name[num_dia_da_semana]
+weekday_upper = weekday_result.upper()
 
-print(weekday_result)
+print(weekday_upper)
 
+print(calendar.day_name[0])

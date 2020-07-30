@@ -6,7 +6,6 @@
 # Title: Calendar Module
 #
 
-import calendar
 
 # tells the interpreter to create a text calendar. Start of the month will be Sunday. 
 # In Python, you can format the calendar as you can change the day of the month to begin with
@@ -16,8 +15,15 @@ import calendar
 # calendario_por_mes = c.formatmonth(2025, 1)
 # print(calendario_por_mes)
 
-mes_dia_ano = map(int, input().split(' '))
-formato_mes_dia_ano = str(mes_dia_ano)
-dia_da_semana = calendar.weekday(formato_mes_dia_ano)
+import calendar
 
-print(dia_da_semana)
+inputValue = map(int, input().split(' '))
+mes_dia_ano = list(inputValue)
+month, day, year = mes_dia_ano[0], mes_dia_ano[1], mes_dia_ano[2]
+
+num_dia_da_semana = calendar.weekday(year, month, day)
+dias_da_semana = ['Monday', 'Tuesday', 'Wednesday', 'Thirsday', 'Friday', 'Saturday', 'Sunday']
+weekday_result = dias_da_semana[num_dia_da_semana]
+weekday_upper = weekday_result.upper()
+
+print(weekday_upper)
