@@ -176,3 +176,8 @@
 
 [Resolution](polar-coordinates/polar-coordinates.py)
 
+## Calendar Module
+
+[Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)
+
+[Resolution](calendar-module/calendar-module.py)
