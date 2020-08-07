@@ -182,6 +182,12 @@
 
 [Resolution](calendar-module/calendar-module.py)
 
+## Exceptions
+
+[Exceptions](https://www.hackerrank.com/challenges/exceptions/problem)
+
+[Resolution](exceptions/exceptions.py)
+
 ## Collections.namedtuple
 
 [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)
