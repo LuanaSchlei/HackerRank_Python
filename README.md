@@ -181,3 +181,9 @@
 [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)
 
 [Resolution](calendar-module/calendar-module.py)
+
+## Collections.namedtuple
+
+[Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)
+
+[Resolution](py_collections_namedtuple/py_collections-namedtuple.py
