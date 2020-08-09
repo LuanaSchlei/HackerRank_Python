@@ -3,7 +3,7 @@
 #
 # Url: https://www.hackerrank.com/challenges/py-collections-namedtuple/problem
 #
-# Title: py-collections-namedtuple
+# Title: Collections.namedtuple()
 #
 # Arquivo de Teste
 #
@@ -23,7 +23,7 @@ input_linhas = ['1          97         Raymond    7',
 numero_estudantes = int(input_numero_estudantes)
 print(numero_estudantes)
 
-#colunas = input().split(' ')
+#colunas = input().split()
 colunas = input_colunas.split()
 print(colunas)
 
@@ -31,7 +31,7 @@ Student = namedtuple('Student', colunas)
 soma_marks = 0
 
 for i in range(numero_estudantes):
-    #linha = input().split(' ')
+    #linha = input().split()
     linha = input_linhas[i].split()
     print(linha)
 
