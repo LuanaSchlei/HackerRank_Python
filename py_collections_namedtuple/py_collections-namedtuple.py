@@ -3,18 +3,18 @@
 #
 # Url: https://www.hackerrank.com/challenges/py-collections-namedtuple/problem
 #
-# Title: py-collections-namedtuple
+# Title: Collections.namedtuple()
 #
 
 from collections import namedtuple
 
 numero_estudantes = int(input())
-colunas = input().split(' ')
+colunas = input().split()
 Student = namedtuple('Student', colunas)
 soma_marks = 0
 
 for i in range(numero_estudantes):
-    linha = input().split(' ')
+    linha = input().split()
 
     student = Student(linha[0], linha[1], linha[2], linha[3])
 
