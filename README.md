@@ -200,3 +200,8 @@
 
 [Resolution](py-collections-ordereddict/py-collections-ordereddict.py)
 
+## Symmetric Difference
+
+[symmetric-difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)
+
+[Resolution](symmetric-difference/symmetric-difference.py)
