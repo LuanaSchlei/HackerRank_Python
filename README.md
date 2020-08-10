@@ -192,4 +192,11 @@
 
 [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)
 
-[Resolution](py_collections_namedtuple/py_collections-namedtuple.py
+[Resolution](py_collections_namedtuple/py_collections-namedtuple.py)
+
+## Collections-ordereddict
+
+[collections-ordereddict](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
+
+[Resolution](py-collections-ordereddict/py-collections-ordereddict.py)
+
