@@ -50,9 +50,9 @@
 
 [Resolution](list-comprehensions/list-comprehensions.py)
 
-## Find-second-maximum-number-in-a-list (Find the Runner-Up Score!)
+## Find the Runner-Up Score!
 
-[Find-second-maximum-number-in-a-list](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
+[Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
 
 [Resolution](find-second-maximum-number-in-a-list/find-second-maximum-number-in-a-list.py)
 
@@ -92,9 +92,9 @@
 
 [Resolution](python-string-split-and-join/python-string-split-and-join.py)
 
-## whats-your-name
+## What's Your Name?
 
-[whats-your-name](https://www.hackerrank.com/challenges/whats-your-name/problem)
+[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)
 
 [Resolution](whats-your-name/whats-your-name.py)
 
@@ -146,27 +146,27 @@
 
 [Resolution](alphabet-rangoli/alphabet-rangoli.py)
 
-## Capitalize
+## Capitalize!
 
-[Capitalize](https://www.hackerrank.com/challenges/capitalize/problem)
+[Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)
 
 [Resolution](capitalize/capitalize.py)
 
-## itertools.product
+## itertools.product()
 
-[itertools.product](https://www.hackerrank.com/challenges/itertools-product/problem)
+[itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)
 
 [Resolution](itertools-product/itertools-product.py)
 
-## collections-counter
+## collections.Counter()
 
-[collections-counter](https://www.hackerrank.com/challenges/collections-counter/problem)
+[collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem)
 
 [Resolution](collections-counter/collections-counter.py)
 
-## itertools.permutations
+## itertools.permutations()
 
-[itertools.permutations](https://www.hackerrank.com/challenges/itertools-permutations/problem)
+[itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)
 
 [Resolution](itertools-permutations/itertools-permutations.py)
 
@@ -188,20 +188,20 @@
 
 [Resolution](exceptions/exceptions.py)
 
-## Collections.namedtuple
+## Collections.namedtuple()
 
 [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)
 
 [Resolution](py_collections_namedtuple/py_collections-namedtuple.py)
 
-## Collections-ordereddict
+## Collections.OrderedDict()
 
-[collections-ordereddict](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
+[Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
 
 [Resolution](py-collections-ordereddict/py-collections-ordereddict.py)
 
 ## Symmetric Difference
 
-[symmetric-difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)
+[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)
 
 [Resolution](symmetric-difference/symmetric-difference.py)
