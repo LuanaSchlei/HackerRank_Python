@@ -205,3 +205,9 @@
 [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)
 
 [Resolution](symmetric-difference/symmetric-difference.py)
+
+## itertools.combinations()
+
+[itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem)
+
+[Resolution](itertools.combinations/itertools.combinations.py)
