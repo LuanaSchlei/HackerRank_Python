@@ -211,3 +211,9 @@
 [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem)
 
 [Resolution](itertools.combinations/itertools.combinations.py)
+
+## Incorrect Regex
+
+[Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem)
+
+[Resolution](incorrect-regex/incorrect-regex.py)
