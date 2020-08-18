@@ -223,3 +223,9 @@
 [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem)
 
 [Resolution](py-set-add/py-set-add.py)
+
+## itertools.combinations_with_replacement()
+
+[itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)
+
+[Resolution](itertools-combinations-with-replacement/itertools-combinations-with-replacement.py)
