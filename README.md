@@ -217,3 +217,9 @@
 [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem)
 
 [Resolution](incorrect-regex/incorrect-regex.py)
+
+## Set .add()
+
+[Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem)
+
+[Resolution](py-set-add/py-set-add.py)
