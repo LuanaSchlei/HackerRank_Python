@@ -235,3 +235,9 @@
 [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)
 
 [Resolution](py-set-discard-remove-pop/py-set-discard-remove-pop.py)
+
+## Collections.deque()
+
+[Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)
+
+[Resolution](py-collections-deque/py-collections-deque.py)
