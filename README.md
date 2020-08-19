@@ -229,3 +229,9 @@
 [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)
 
 [Resolution](itertools-combinations-with-replacement/itertools-combinations-with-replacement.py)
+
+## Set .discard(), .remove() & .pop()
+
+[Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)
+
+[Resolution](py-set-discard-remove-pop/py-set-discard-remove-pop.py)
