@@ -265,3 +265,9 @@
 [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem)
 
 [Resolution](python-power-mod-power/python-power-mod-power.py)
+
+## Set .difference() Operation
+
+[Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)
+
+[Resolution](py-set-difference-operation/py-set-difference-operation.py)
