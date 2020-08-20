@@ -241,3 +241,9 @@
 [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)
 
 [Resolution](py-collections-deque/py-collections-deque.py)
+
+## Set .union() Operation
+
+[Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)
+
+[Resolution](py-set-union/py-set-union.py)
