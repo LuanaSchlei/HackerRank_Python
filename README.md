@@ -271,3 +271,9 @@
 [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)
 
 [Resolution](py-set-difference-operation/py-set-difference-operation.py)
+
+## Integers Come In All Sizes
+
+[Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
+
+[Resolution](python-integers-come-in-all-sizes/python-integers-come-in-all-sizes.py)
