@@ -247,3 +247,9 @@
 [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)
 
 [Resolution](py-set-union/py-set-union.py)
+
+## Set .intersection() Operation
+
+[Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)
+
+[Resolution](py-set-intersection-operation/py-set-intersection-operation.py)
