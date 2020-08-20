@@ -253,3 +253,9 @@
 [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)
 
 [Resolution](py-set-intersection-operation/py-set-intersection-operation.py)
+
+## Mod Divmod
+
+[Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem)
+
+[Resolution](python-mod-divmod/python-mod-divmod.py)
