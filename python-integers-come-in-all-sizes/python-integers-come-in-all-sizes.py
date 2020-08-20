@@ -1,9 +1,9 @@
 #!/bin/python3
 
 #
-# Url: https://www.hackerrank.com/challenges/py-set-difference-operation/problem
+# Url: https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem
 #
-# Title: Set .difference() Operation
+# Title: Integers Come In All Sizes
 #
 
 input_a = int(input())
