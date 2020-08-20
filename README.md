@@ -277,3 +277,9 @@
 [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
 
 [Resolution](python-integers-come-in-all-sizes/python-integers-come-in-all-sizes.py)
+
+## Set .symmetric_difference() Operation
+
+[Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)
+
+[Resolution](py-set-symmetric-difference-operation/py-set-symmetric-difference-operation.py)
