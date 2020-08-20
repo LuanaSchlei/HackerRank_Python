@@ -259,3 +259,9 @@
 [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem)
 
 [Resolution](python-mod-divmod/python-mod-divmod.py)
+
+## Power - Mod Power
+
+[Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem)
+
+[Resolution](python-power-mod-power/python-power-mod-power.py)
