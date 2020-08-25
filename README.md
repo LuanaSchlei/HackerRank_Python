@@ -283,3 +283,9 @@
 [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)
 
 [Resolution](py-set-symmetric-difference-operation/py-set-symmetric-difference-operation.py)
+
+## Set Mutations
+
+[Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)
+
+[Resolution](py-set-mutations/py-set-mutations.py)
