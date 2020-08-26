@@ -301,3 +301,9 @@
 [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)
 
 [Resolution](py-check-subset/py-check-subset.py)
+
+## Check Strict Superset
+
+[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)
+
+[Resolution](py-check-strict-superset/py-check-strict-superset.py)
