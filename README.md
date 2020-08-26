@@ -295,3 +295,9 @@
 [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)
 
 [Resolution](py-the-captains-room/py-the-captains-room.py)
+
+## Check Subset
+
+[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)
+
+[Resolution](py-check-subset/py-check-subset.py)
