@@ -289,3 +289,9 @@
 [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)
 
 [Resolution](py-set-mutations/py-set-mutations.py)
+
+## The Captain's Room
+
+[The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)
+
+[Resolution](py-the-captains-room/py-the-captains-room.py)
