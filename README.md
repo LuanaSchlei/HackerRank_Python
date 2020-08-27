@@ -307,3 +307,9 @@
 [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)
 
 [Resolution](py-check-strict-superset/py-check-strict-superset.py)
+
+## Zipped!
+
+[Zipped!](https://www.hackerrank.com/challenges/zipped/problem)
+
+[Resolution](zipped/zipped.py)
