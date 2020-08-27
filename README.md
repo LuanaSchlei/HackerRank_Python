@@ -325,3 +325,9 @@
 [Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem)
 
 [Resolution](python-eval/python-eval.py)
+
+## Any or All
+
+[Any or All](https://www.hackerrank.com/challenges/any-or-all/problem)
+
+[Resolution](any-or-all/any-or-all.py)
