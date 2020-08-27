@@ -313,3 +313,9 @@
 [Zipped!](https://www.hackerrank.com/challenges/zipped/problem)
 
 [Resolution](zipped/zipped.py)
+
+## Input()
+
+[Input()](https://www.hackerrank.com/challenges/input/problem)
+
+[Resolution](input/input.py)
