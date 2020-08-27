@@ -319,3 +319,9 @@
 [Input()](https://www.hackerrank.com/challenges/input/problem)
 
 [Resolution](input/input.py)
+
+## Python Evaluation
+
+[Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem)
+
+[Resolution](python-eval/python-eval.py)
