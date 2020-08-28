@@ -337,3 +337,9 @@
 [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
 
 [Resolution](introduction-to-regex/introduction-to-regex.py)
+
+## Re.split()
+
+[Re.split()](https://www.hackerrank.com/challenges/re-split/problem)
+
+[Resolution](re-split/re-split.py)
