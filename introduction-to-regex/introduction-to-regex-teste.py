@@ -8,6 +8,7 @@
 # Arquivo de Teste
 #
 
+import re
 
 # number_tests_cases = int(input())
 number_tests_cases = '5'
@@ -31,11 +32,6 @@ for i in range(number_tests_cases_int):
     print(i)
     cases = tests_cases[i]
     print(cases)
-    try:
-        if '.' in cases:
-            cases_float = float(cases)
-            print(True)
-        else:
-            print(False)
-    except ValueError as detail:
-        print(False)
+    #cases_float = float(tests_cases)
+    #print(cases_float)
+    print(bool(re.match(r'^[-+]?[0-9]*\.[0-9]+$', cases)))
