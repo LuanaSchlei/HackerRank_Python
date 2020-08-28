@@ -331,3 +331,9 @@
 [Any or All](https://www.hackerrank.com/challenges/any-or-all/problem)
 
 [Resolution](any-or-all/any-or-all.py)
+
+## Detect Floating Point Number
+
+[Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
+
+[Resolution](introduction-to-regex/introduction-to-regex.py)
