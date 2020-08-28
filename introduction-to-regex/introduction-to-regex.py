@@ -6,15 +6,10 @@
 # Title: Detect Floating Point Number
 #
 
+import re
+
 number_tests_cases = int(input())
 
 for i in range(number_tests_cases):
     tests_cases = input()
-    try:
-        if '.' in tests_cases:
-            cases_float = float(tests_cases)
-            print(True)
-        else:
-            print(False)
-    except ValueError as detail:
-        print(False)
+    print(bool(re.match(r'^[-+]?[0-9]*\.[0-9]+$', tests_cases)))
