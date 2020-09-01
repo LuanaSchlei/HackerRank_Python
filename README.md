@@ -343,3 +343,9 @@
 [Re.split()](https://www.hackerrank.com/challenges/re-split/problem)
 
 [Resolution](re-split/re-split.py)
+
+## Map and Lambda Function
+
+[Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)
+
+[Resolution](map-and-lambda-expression/map-and-lambda-expression.py)
