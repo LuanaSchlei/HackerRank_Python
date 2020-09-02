@@ -349,3 +349,9 @@
 [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)
 
 [Resolution](map-and-lambda-expression/map-and-lambda-expression.py)
+
+## Group(), Groups() & Groupdict()
+
+[Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem)
+
+[Resolution](re-group-groups/re-group-groups.py)
