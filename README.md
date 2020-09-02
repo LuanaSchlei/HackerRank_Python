@@ -355,3 +355,9 @@
 [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem)
 
 [Resolution](re-group-groups/re-group-groups.py)
+
+## Re.findall() & Re.finditer()
+
+[Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)
+
+[Resolution](re-findall-re-finditer/re-findall-re-finditer.py)
