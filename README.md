@@ -361,3 +361,9 @@
 [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)
 
 [Resolution](re-findall-re-finditer/re-findall-re-finditer.py)
+
+## Re.start() & Re.end()
+
+[Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem)
+
+[Resolution](re-start-re-end/re-start-re-end.py)
