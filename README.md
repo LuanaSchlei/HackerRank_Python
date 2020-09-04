@@ -367,3 +367,9 @@
 [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem)
 
 [Resolution](re-start-re-end/re-start-re-end.py)
+
+## Validating Roman Numerals
+
+[Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number/problem)
+
+[Resolution](validate-a-roman-number/validate-a-roman-number.py)
